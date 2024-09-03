@@ -1,4 +1,4 @@
 /.idea/vcs.xml
-.env
-.iml
+*.env
+*.iml
 ./idea/
